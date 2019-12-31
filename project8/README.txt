@@ -1,3 +1,5 @@
+Triangle meshes
+
 1) Run .exe.
 Note: Majority of added .obj support is in the geometry class (triangle) and first half of the draw function (prior to shadow casting).
 
