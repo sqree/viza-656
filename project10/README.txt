@@ -1,3 +1,5 @@
+Distributed ray-tracing
+
 1) Run .exe.
 
 2) Scene should automatically load with 1 plane and 2 spheres. Default is point light with hard shadow. The shaded image will also be saved to the ./images folder as ‘rasterized.png’.
