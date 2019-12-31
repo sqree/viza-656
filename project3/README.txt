@@ -1,4 +1,7 @@
+2D refraction
+
 1) Run .exe
+
 2) Initial prompt will ask whether "normal" or "depth" information will be provided. Select "normal" if the input image will be a normal map, "depth" if the input image will be a depth map.
 
 To see the shaded generated sphere, select "depth" for this prompt.
