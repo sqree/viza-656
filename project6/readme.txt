@@ -1,3 +1,5 @@
+Shadow casting
+
 1) Run .exe.
 Note: Majority of shadow implementation is in the castshadow() function in the light class.
 
