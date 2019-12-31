@@ -1,3 +1,5 @@
+Texture-mapping & projection
+
 1) Run .exe.
 
 2) Scene should automatically load with 1 planes, 3 spheres, & 1 infinite sphere. Default is uv-wrapped texture. The shaded image will be saved to the ./images folder as ‘rasterized.png’.
