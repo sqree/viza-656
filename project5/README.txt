@@ -1,3 +1,5 @@
+3D camera & ray-casting
+
 1) Run .exe.
 
 2) Scene should automatically load with 3 planes & 1 sphere. The shaded image will also be saved to the ./images folder as ‘rasterized.png’.
